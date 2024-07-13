@@ -11,6 +11,5 @@ something how "systemctl status service_name.service" but i belive that quick vi
 <h3>To list all failed services: </h3>
 
 <p>    </p>
-<img style="width:500px;" src="tutorial-assets/lserv.gif">
-`lserv -f`
-*lserv -f*
+<img style="width:500px;" src="tutorial-assets/lserv.gif"/>
+`
