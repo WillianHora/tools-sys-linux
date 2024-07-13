@@ -10,4 +10,4 @@ something how "systemctl status service_name.service" but i belive that quick vi
 <h1>List Service</h1>
 To list all failed services: ´´lserv -f´´
 To list all actives services: ´´lserv -a´´
-<img style="width:300px;" src="tutorial-assets/lserv.gif">
+<img style="width:5000px;" src="tutorial-assets/lserv.gif">
