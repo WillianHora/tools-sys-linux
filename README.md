@@ -11,6 +11,7 @@ something how "systemctl status service_name.service" but i belive that quick vi
 <h1>How to run installer</h1>
 
 Grant previleges to script with:  `chmod +x script_example.sh`
+
 Run it: `./script_example.sh`
 
 
