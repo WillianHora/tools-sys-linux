@@ -9,6 +9,8 @@ something how "systemctl status service_name.service" but i belive that quick vi
 
 <h1>List Service</h1>
 <h3>To list all failed services: </h3>
-`lserv -f`
+
 <p>    </p>
 <img style="width:500px;" src="tutorial-assets/lserv.gif">
+`lserv -f`
+*lserv -f*
