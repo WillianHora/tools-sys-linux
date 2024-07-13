@@ -8,6 +8,7 @@ something how "systemctl status service_name.service" but i belive that quick vi
 <p>I'll split the scripts with installer them and when we'll have a good amount, we'll bring everything together in only one installer.</p>
 
 <h1>List Service</h1>
-<h3>To list all failed services: ```lserv -f```</h3>
+<h3>To list all failed services: </h3>
+`lserv -f`
 <p>    </p>
 <img style="width:500px;" src="tutorial-assets/lserv.gif">
