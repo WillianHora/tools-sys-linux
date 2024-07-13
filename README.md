@@ -12,6 +12,6 @@ something how "systemctl status service_name.service" but i belive that quick vi
 
 <p>    </p>
 <img style="width:500px;" src="tutorial-assets/lserv.gif"/>
+`lserv -f`
 
-
-`teste`
+`lserv -f`
