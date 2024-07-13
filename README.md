@@ -7,6 +7,14 @@ something how "systemctl status service_name.service" but i belive that quick vi
 
 <p>I'll split the scripts with installer them and when we'll have a good amount, we'll bring everything together in only one installer.</p>
 
+
+<h1>How to run installer</h1>
+
+Grant previleges to script with:  `chmod +x script_example.sh`
+Run it: `./script_example.sh`
+
+
+
 <h1>List Services</h1>
 <h3>To list all failed services: </h3>
 
