@@ -69,7 +69,7 @@ fi
 #USER INSTALLATION END
 fi
     echo "Working, Try lserv -f or lserv -a"
-
+    rm ./lserv.sh
 else 
     echo "Try again with valid input"
    ./lserv.sh
