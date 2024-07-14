@@ -35,6 +35,8 @@ Run it: `./script_example.sh`
 <h3>How to install</h3>
 
 `wget https://willianhora.github.io/tools-sys-linux/installers/lserv_install.sh`
+
 `chmod +x lserv_install.sh`
+
 `./lserv_install.sh`
 
