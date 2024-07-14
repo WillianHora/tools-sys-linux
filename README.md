@@ -18,7 +18,7 @@ Run it: `./script_example.sh`
 
 <h1>List Services</h1>
 <h3>To list all failed services: </h3>
-<a src="installers/lserv_install.sh">Download</a>
+<a href="installers/lserv_install.sh">Download</a>
 
 <p>    </p>
 <img style="width:500px;" src="tutorial-assets/lserv.gif"/>
