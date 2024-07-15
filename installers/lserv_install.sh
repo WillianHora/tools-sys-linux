@@ -9,8 +9,9 @@ read choose
 if [ "${choose,,}" == y ];then
     if [ "$USER" == root ];then
         echo "Installing in all users..."
-        echo "Sorry this function no work yet"
         sleep 2
+        echo "Sorry this function no work yet"
+        
     else
         echo "Please, for installing this tool in all users it's necessary be logged as root user"
     fi    
