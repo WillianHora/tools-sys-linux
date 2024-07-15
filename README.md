@@ -40,3 +40,5 @@ Run it: `./script_example.sh`
 
 `./lserv_install.sh`
 
+<p>Function "install on all users" doesn't work yet</p>
+
