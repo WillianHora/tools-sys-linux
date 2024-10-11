@@ -1,3 +1,4 @@
+clear
 cash=$(basename "$SHELL")
 
 
